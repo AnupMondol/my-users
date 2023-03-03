@@ -1,0 +1,36 @@
+.user-area{
+    display: flex;
+}
+
+.users{
+    width: 70%;
+    border-right: 1px solid rgb(132, 0, 255);
+    display: grid;
+    grid-template-columns: repeat(auto-fit,300px);
+    grid-template-rows: repeat(auto-fit , 520px);
+    margin-left: 20px;
+}
+.user-detail .detail{
+    position: fixed;
+    margin-left: 10px;
+    text-align: center;
+    height: 200px;
+    background-color: rgb(254, 254, 255);
+    width: 400px;
+    border-bottom: 2px solid red;
+    
+}
+.detail h3{
+    margin-left: -250px;
+    
+    
+}
+.aded-user{
+    overflow: hidden;
+    margin-top: 230px;
+    margin-left: 20px;
+}
+
+h2{
+    color: blue;
+}

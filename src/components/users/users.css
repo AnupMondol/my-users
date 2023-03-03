@@ -1,0 +1,30 @@
+.user-info{
+    border: 1px solid rgb(98, 0, 255);
+    height: 490px;
+    width: 280px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.user-info img{
+    height: 200px;
+    width: 280px;
+}
+
+.user-info h3{
+    color: blue;
+}
+.user-info h4{
+    color: red;
+}
+.user-info h5{
+    color: green;
+}
+
+button{
+    border: 1px solid green;
+    background-color: transparent;
+    color: red;
+    height: 30px;
+    border-radius: 5px;
+}
